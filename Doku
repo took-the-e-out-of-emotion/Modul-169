@@ -1,1 +1,33 @@
+Modul 169 – Dokumentation
+Dies ist meine persönliche Dokumentation zum Modul 169 – Services mit Containern bereitstellen.
+Sie enthält alle wichtigen Inhalte aus Theorie, Praxisaufgaben und eigenen Notizen.
 
+
+## 1. Warum Container?
+
+
+
+
+# Unterschied: VM vs Container
+
+VM: Eigenes komplettes Betriebssystem
+Container: nutzt das OS vom Host
+
+Container verpacken ihre Anwendung und alle zu ihrer ausführung notwenigen Dateien ineinander
+
+
+
+
+
+Unterschied: VM vs Container
+
+Docker Container Virtualisieren das Betriebssystem 
+VMs virtualisieren die Hardware (CPU, Ram) vom Computer
+
+
+
+## 2. Geschichte der Container
+
+
+
+## 3. Docker Installation
