@@ -8,7 +8,7 @@ Sie enthält alle wichtigen Inhalte aus Theorie, Praxisaufgaben und eigenen Noti
 
 
 
-# Unterschied: VM vs Container
+#Unterschied: VM vs Container
 
 VM: Eigenes komplettes Betriebssystem
 Container: nutzt das OS vom Host
